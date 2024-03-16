@@ -53,13 +53,22 @@ Highlights of my studies include the fostering of technical and soft skills. My 
 <h4 id="Workcode">Applying code beyond the classroom</h4>
 <p>Following my junior year, I took an internship for a green-tech software startup. During the first weeks here, I was asked to design a code that could automatically sort their data from two different sites using a technique called "fuzzy matching". Fuzzy matching was a completely new term for me, entailing connecting two sources who's input match a certain perent. Understanding the opportunity I had to cultivate imapctful work for this company, I agreed to give it a go and taught myself how to write complex code after only 10 weeks of prior coding experience. The Fuzzy Matching project ended up taking 6 days, matching over 800 records for the company to use and providing a code that could be copied and applied to other resources when needed.
 
-To begin the project, I ensured that the files uploaded properly, the code was working, and that someone within the company that was unfamiliar with coding would be able to understand what was happening through descriptive comments. Top Owner Project Step 1
+<br>Top Owner Project Step 1
+<br>To begin the project, I ensured that the files uploaded properly, the code was working, and that someone within the company that was unfamiliar with coding would be able to understand what was happening through descriptive comments. 
+<br>
 ![Work Example 1](https://private-user-images.githubusercontent.com/162177966/309979583-fbc46f49-a07f-4c8c-9833-e610c156ed0e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk3ODA0MzAsIm5iZiI6MTcwOTc4MDEzMCwicGF0aCI6Ii8xNjIxNzc5NjYvMzA5OTc5NTgzLWZiYzQ2ZjQ5LWEwN2YtNGM4Yy05ODMzLWU2MTBjMTU2ZWQwZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwN1QwMjU1MzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jY2NmYTMyNDAwZGNhNzAzNzA2OWJhNDU5NDEwYjZkMmE2YzY2Y2Y5Y2ZjYWM0YTI5YjAyYmYwN2U2YjQ0YTkxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ANdl2tFAHEGu-giSFQ4EVhFvUgOefnEJhneJb8kDzkM)
-Next I tested the fuzzy matching code with some sample variables to ensure that they would only match if they were 80% similiar or more Top Owner Project Step 2
+<br>
+<br>Top Owner Project Step 2
+<br>Next I tested the fuzzy matching code with some sample variables to ensure that they would only match if they were 80% similiar or more 
+<br>
 ![Work Example 2](https://private-user-images.githubusercontent.com/162177966/309979650-0a5227b3-b321-415d-a5e9-4ba6d3530f8b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk2MTI0MjYsIm5iZiI6MTcwOTYxMjEyNiwicGF0aCI6Ii8xNjIxNzc5NjYvMzA5OTc5NjUwLTBhNTIyN2IzLWIzMjEtNDE1ZC1hNWU5LTRiYTZkMzUzMGY4Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwNVQwNDE1MjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yM2VlYTFiYzUyNDBmMmUyY2FkZDAxNjNmOGIwZjYxNjYxM2RiOGU1MGE1YzA0MDFmNDk2MmJkNmNlOWYwMWU1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.DrEb1E2P-dbIc_LMUBjff_1TDOUdSVh7pmV7Ia-TuEM)
-The biggest challenge for this code was converting the data to be read and motified by the python code, before being returned to an excel file. In addition, I had to add information to empty rows and ensure everything went in the right spot. I was able to teach myself how to do this through working with AI platforms and using my knowledge on coding procedures. Top Owner Project Step 3
+<br>
+<br>Top Owner Project Step 3
+<br>The biggest challenge for this code was converting the data to be read and motified by the python code, before being returned to an excel file. In addition, I had to add information to empty rows and ensure everything went in the right spot. I was able to teach myself how to do this through working with AI platforms and using my knowledge on coding procedures. 
+<br>
 ![Work Example 3](https://private-user-images.githubusercontent.com/162177966/309981003-cbef9cf0-ffcc-47ed-946c-4d6eca77f3a3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk2MTI1ODMsIm5iZiI6MTcwOTYxMjI4MywicGF0aCI6Ii8xNjIxNzc5NjYvMzA5OTgxMDAzLWNiZWY5Y2YwLWZmY2MtNDdlZC05NDZjLTRkNmVjYTc3ZjNhMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwNVQwNDE4MDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ODg3ZmI2MDIzZmE5OTE1ZjBlMzk0MGViMjgwYTgwNDUyOTkxNTEwMjdmZjdiODgzYWYzZDdjZjljYTA1MTQ2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.nMVa1Yn_F1BW0vcDEKwf2CBzwOg2LEF8cwzD81IdDJE)
-
+<br>
+<br>
 Taking on intimidating work like this came with much more reward then struggle. This project helped me understand the balance and patience it takes to try something new, as well as the satisfaction of creating true value to a company.</p>
 <h4 id="Marketing Experience">Marketing Experience</h4>
 <p>Using the skills developed at Daniels, I had a role as a marketing intern at Gridium in the Summer of 2023. This company was a startup, who had only just created the roll of marketing, meaning there was an abundance of work to complete. In my role here I was in charge of communicating sales data between the marketing and sales departments. In addition to the coding work shown above, I worked in spreadsheets to organize marketing campaign networking, completed various data organization tasks and helped organize teams before big events. The biggest highlight for my marketing role was writting a blog about one of the webinars that Gridium attended. In the time at this company, I learned about the importance of understanding everything your business does and the various industry trends going on. I put my marketing skills to the test with my blog that I was able to publish on the company website and on LinkedIn.</p>
@@ -102,7 +111,7 @@ Click [here](https://gridium.com/building-decarbonization-and-the-sf-climate-act
     </td>
   </tr>
   <tr>
-    <th>CliftonStrengths (Fall 2018)</th>
+    <th>Work Skills</th>
     <th>Other Skills</th>
  </tr>
  <tr>
@@ -136,7 +145,7 @@ Click [here](https://gridium.com/building-decarbonization-and-the-sf-climate-act
       </td>
         <td>
       <img src="https://private-user-images.githubusercontent.com/162177966/310738480-3131751b-3a22-4c64-a14f-60221c1536b7.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA2MTA1OTIsIm5iZiI6MTcxMDYxMDI5MiwicGF0aCI6Ii8xNjIxNzc5NjYvMzEwNzM4NDgwLTMxMzE3NTFiLTNhMjItNGM2NC1hMTRmLTYwMjIxYzE1MzZiNy5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDMxNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDAzMTZUMTczMTMyWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZTRlY2UzNTgyZmFhODNkNmQ3MDQ4NGE1YmEzYjgwM2EwODliZWRlMTA3MTRlYWJlOTU1MTE0YThkZWNiNDAxMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.NhmMJ-a8CNOjISiQQGf9Agv8zUWn6vWgjU5mo219Drw" width="460">
-      <br><i>Photography throughout the seasons. Follow @thedaily.sp for more photos</i>
+      <br><i>Photography throughout the seasons. Follow @thedaily.sp on instagram for more photos</i>
       </td>
   </tr>
   <tr>
