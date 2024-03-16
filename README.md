@@ -37,38 +37,14 @@ Highlights of my studies include the fostering of technical and soft skills. My 
 <h4 id="Ethics">Coding Ethics - <i>Fall 2023</i></h4>
 <p>In the fall, as I continued honing my web development skills through coding classes, I delved into the realm of coding ethics. This exploration highlighted the critical importance of addressing bias in code creation. Coding ethics is paramount in ensuring that software development remains fair, inclusive, and responsible. Understanding and mitigating bias in code is essential for building equitable technological solutions. By scrutinizing our coding practices for potential biases, we can strive to create software that serves diverse communities effectively. Moreover, prioritizing coding ethics fosters trust and credibility in the tech industry, enhancing user satisfaction and the societal impact of our work. Overall, integrating ethical considerations into coding practices is not just a moral imperative but also a practical necessity for shaping a more equitable digital future.</p>
 <hr>
-
-
-
-<a name="DAT"></a>
-### Daniels Ambassador Team
-<i>Fall 2019 - Winter 2022</i>
-<br>
-<br>When touring schools as a high school student, my favorite experiences to hear about were those of the students. I found their perspectives valuable in learning about the school and identifying whether I could see myself at that school. Once in college, I wanted to do the same for other prospective students. After not receiving an offer for the tour guide position with Admissions, I reached out to the Manager of Enrollment Services at Daniels, who I worked with when applying myself, asking about opportunities to work with prospective students. To my excitment, there was a position with the Daniels Ambassador Team (DAT).
-<br>
-<br>With DAT, I shared my experiences and answered questions in conversational and panel settings, helping prospective students find the University for them across academic, social, cultural, and graduate outcomes. In doing this, I developed public speaking skills, gained experience in presentation flow with multiple presenters (panel setting), and learned how to prepare for unknown questions. Prior to these sessions, I considered my experiences in relation to what could be asked of me; however, I did not know the exact questions, meaning I drew from my experiences while thinking on my feet–an important skill for many settings. Further, I learned how to feel comfortable and confident in what was often a pressure-filled environment, given prospective students and families were evaluating me and the University. Beyond the skills I developed, I enjoyed meeting and talking to prospective students and families from across the country. The college search process can be overwhelming, and I hope I was able to alleviate some of that for them.
-
-[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
-
-<a name="Writing"></a>
-### Writing Samples
-#### Child Emotional Maltreatment: Identifying Child Emotional Maltreatment and Intervening
-<i>Fall 2020</i>
-<br>
-<br>In this blog post, I researched child abuse, specifically emotional maltreatment, and distilled the complex information into language understood by a non-scientific audience. This helped me develop skills in understanding scientific work and reframing it for consumption beyond a scientific audience. These skills apply to my technical analytic work and to my teaching, as technical concepts often must be explained in non-technical terms to be understood by a broader audience.
-
-[<img src="https://user-images.githubusercontent.com/91146906/162126570-0ee09e62-f24d-4a2a-8d68-3fcb47da7c67.svg" height="35"/>](../DanielsDistinctionPortfolio/ChildEmotionalMaltreatmentBlogPost.pdf)
-
-#### The Impacts of Screen Time on Mental, Emotional, and Relational Health in Children Ages 0-10
-<i>Fall 2020</i>
-<br>
-<br>In this paper, I summarized the results of existing scientific articles related to the impact of screen time on mental, emotional, and relational health in children ages 0-10. Then, I developed a research proposal for future research related to the topic. This required critical thinkning in identifying gaps in existing research and then brainstorming how to bridge those gaps.
-
-[<img src="https://user-images.githubusercontent.com/91146906/162126570-0ee09e62-f24d-4a2a-8d68-3fcb47da7c67.svg" height="35"/>](../DanielsDistinctionPortfolio/ScreenTimeResearchProposal.pdf)
-
-[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
-
-<a name="CommunityLeadership"></a>
+<h3 id="BIA">Business Information Analytics at the University of Denver</h3>
+<p>It wasn't until my junior year that I changed my minor to focus on Business Information Analytics (BIA). Since taking my first BIA classes, I have enjoyed the work that comes with analyzing and interpreting business data. The ability to understand business information through sorting and analyzing data is something I look forward to doing in future jobs.</p>
+<h4 id="Marketing Analytics">Marketing Analytics - <i>Winter 2024</i></h4>
+<p>During my senior year, I was lucky enough to take a class in marketing analytics, that use a culmutation of my skills. During this time, I've gained valuable knowledge into what marketing analytics is and am confident that this is the position I would like to have in jobs post-graduation. The skills I have developed include the ability to forecast sales, clean data, and automate analytics functions in excel.</p>
+<h4 id="Information Management">Information Management - <i>Spring 2023</i></h4>
+<p>A course that I took at DU that has prepared me for in-depth analytics skills is INFO 3100: Information Management. This class teaches students about Database Management Systems (DBMS) and how to create database organization through SQL. In SQL, I am now able to build efficient ERD's and understand how multiple segments of a business are related.</p>
+<h4 id="Analytics Core">Analytics I, II, & III - <i>2020-2021</i></h4>
+<p>Analytics I, II, and III are key components that make me a complete analytics student. In these classes, students gain the necessary skills in Excel to become efficient analysts. The courses are built on the idea of developing students in five different criteria: Ethical Decision-Making, Technical Knowledge, Communication and Interpersonal Effectiveness, Critical Thinking, and Global Competence. This is achieved through a multitude of tools such as certifications in Excel, PowerPoint, and Word, as well as hands-on experience with real companies.</p>
 <hr>
 
 ## Community Engagment and Leadership
