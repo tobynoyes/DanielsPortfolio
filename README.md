@@ -141,6 +141,7 @@ Click [here](https://gridium.com/building-decarbonization-and-the-sf-climate-act
   <tr>
     <td>
       <img src="https://private-user-images.githubusercontent.com/162177966/310738358-8ea9c5bc-cafe-4ac4-8308-a2ebf831b5ce.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA2MTA1OTIsIm5iZiI6MTcxMDYxMDI5MiwicGF0aCI6Ii8xNjIxNzc5NjYvMzEwNzM4MzU4LThlYTljNWJjLWNhZmUtNGFjNC04MzA4LWEyZWJmODMxYjVjZS5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDMxNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDAzMTZUMTczMTMyWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NjljNDBiNzM2ZDZjNWI2ZDZiNDc0MGNkYmFhMWYxZWQ0Nzg5Zjk3OThmMTY0NDYzYTE2ZTcyODA1MmI5ZjU3ZCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.ZQ2WT7jdWkx7-5OjgeIDFTDVc70BrgiGr7YT01Z6Rok" width="460">
+      ![Sking in Colorado
       <br><i>Skiing in Colorado</i>
       </td>
         <td>
